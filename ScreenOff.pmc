@@ -1,0 +1,6 @@
+﻿[PMC Code v5.0.5]|||0|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Groups=Start:1
+1|Run|taskkill /IM ScreenOn.exe /F , , Min|1|0|Run|||||
+2|[MsgBox]|Screen Off|1|0|MsgBox|64|Screen Off|||
+3|ExitApp||1|0|ExitApp|||||
+
